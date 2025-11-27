@@ -1,50 +1,6 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="1893" height="7467" alt="simple-list" src="https://github.com/user-attachments/assets/1aeb1549-3676-49a0-ae48-b62652f4fedb" />
+<img width="1935" height="2831" alt="virtual-list" src="https://github.com/user-attachments/assets/a115894f-0913-4da1-b7f2-f42b536dd04a" />
+<img width="3007" height="1981" alt="recyclable-list" src="https://github.com/user-attachments/assets/bf07f02a-3a78-42b3-bea2-a42e9678a2f6" />
+<img width="3053" height="3772" alt="old-structure-with-context-API" src="https://github.com/user-attachments/assets/fddfcf41-af79-4683-a14d-cb053e48c14d" />
+<img width="9182" height="18882" alt="old-structure" src="https://github.com/user-attachments/assets/565fa366-8e9f-406a-87a3-83044a148e1f" />
+<img width="6811" height="18882" alt="new-structure" src="https://github.com/user-attachments/assets/99fd7b68-7d88-4dcc-8bf0-ced3255c7b7b" />
